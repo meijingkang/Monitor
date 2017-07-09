@@ -30,6 +30,10 @@
                 android:id="@+id/nav_send"
                 android:icon="@drawable/ic_menu_send"
                 android:title="Send" />
+            <item
+                android:id="@+id/open_monitor"
+                android:icon="@drawable/ic_menu_send"
+                android:title="开启监控" />
         </menu>
     </item>
 
